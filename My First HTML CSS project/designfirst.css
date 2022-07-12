@@ -1,0 +1,403 @@
+
+.headerL{
+    margin-top: 0%;
+    font-size: 18px;
+    font-weight: bold;
+    float: left;
+    padding: 10px;
+
+}
+ul{
+    margin-top: 1%;
+    float: right;
+    padding: 10px;
+}
+li{
+    color: brown;
+    display: inline;
+    padding:10px ;}
+li a{
+    color: black;
+    text-decoration: none;
+
+}
+.ext{
+    clear:both;
+}
+.img1{
+    width: 100%;
+    height: auto;
+}
+    
+.heading1{
+    text-align: center;
+}
+.para1{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-justify: center;
+    font-size: medium;
+}
+.Box1
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    width: 10%;
+    height: fit-content;
+    background-color:#527a7a;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    text-decoration: none;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+.Box1:hover{
+    background-color:black;
+    text-decoration: underline;
+    box-shadow: inset 159px 0 0 0 #54b3d6;
+  color: white;
+}
+.card{
+    margin-left: 3.5%;
+    margin-top: 1em;
+    text-align: center;
+}
+.Cards1{
+    
+    border: solid black;
+    border-width: thin;
+    display: block;
+    width: 20%;
+    height: 320px;
+    float:left;
+    padding: 20px;
+    border-radius: 10px;
+}
+    .Cards1:hover{
+        background-color:  #bfbfbf;
+        box-shadow: 0 4px 8px 0 black
+    }
+.img2 {
+    width: 50%;
+    height: auto;
+    text-align: center;
+
+ }
+ .Cards2{
+    margin-left: 1%;
+
+    border: solid black;
+    border-width: thin;
+    display: block;
+    width: 20%;
+    height: 320px;
+    float:left;
+    padding: 20px;
+    border-radius: 10px;}
+    .Cards2:hover{
+        background-color:  #bfbfbf;
+        box-shadow: 0 4px 8px 0 black}
+.Cards3{
+    
+        margin-left: 1%;
+    
+        border: solid black;
+        border-width: thin;
+        display: block;
+        width: 20%;
+        height: 320px;
+        float:left;
+        padding: 20px;
+        border-radius: 10px;}
+        .Cards3:hover{
+            background-color:  #bfbfbf;
+            box-shadow: 0 4px 8px 0 black}
+        .Cards4
+        {
+            margin-left: 1%;
+         
+            border: solid black;
+            border-width: thin;
+            display: block;
+            width: 20%;
+            height: 320px;
+            float:left;
+            padding: 20px;
+            border-radius: 10px;
+        }
+        .Cards4:hover
+        {
+            background-color:  #bfbfbf;
+            box-shadow: 0 4px 8px 0 black}
+
+.textBox
+{
+    line-height: 0.5em;
+}
+.cap
+{
+    
+    font-size: large;
+    font-weight: bold;
+}
+.investment
+{
+    margin-left: 25%;
+    font-weight: bold;
+    float: left;
+}
+.notBold{
+    margin-left: 6px;
+    float: left;
+}
+.house1
+{
+    margin-left: 30px;
+    width: 23%;
+    height: auto;
+    text-align: center;
+    float: left;
+    padding: 5px;
+    position: relative;
+}
+.textHouse1{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.house2
+{
+    width: 23%;
+    height: auto;
+    text-align: center;
+    float: left;
+    padding: 5px;
+    position: relative;
+}
+.house3
+{
+    width: 23%;
+    height: auto;
+    text-align: center;
+    float: left;
+    padding: 5px;
+}
+.house4
+{
+    width: 23%;
+    height: auto;
+    text-align: center;
+    float: left;
+    padding: 5px;
+}
+
+.container {
+    position: relative;
+    font-family: Arial;
+  }
+  
+  .text-block {
+    position: absolute;
+    top: 6px;
+    left: 2.8%;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .text-block2 {
+    position: absolute;
+    top: 6px;
+    left: 26.5%;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .text-block3 {
+    position: absolute;
+    top: 6px;
+    left: 50.2%;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .text-block4 {
+    position: absolute;
+    top: 6px;
+    left: 74.1%;
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .SeeAll{
+    margin-top: 14em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    text-align: center;
+    width: 10%;
+    height: fit-content;
+    background-color:#527a7a;
+    color: white;
+    padding: 10px;
+    border-radius: 7px;
+    text-decoration: none;
+  }
+  .SeeAll:hover{
+    backdrop-filter: blur(5px);
+    filter: blur(1px);
+    transition: 0.5s ease;
+    text-decoration: underline;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    line-height: 2;
+  }
+  
+  th {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 2px solid rgb(5, 0, 0);
+  }
+  td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid rgb(0, 0, 0);
+  }
+  .tableHolder{
+    margin-top: 5px;
+    margin-left: 8%;
+    margin-right: 10%;
+    margin-bottom: 2%;
+    border: solid black;
+    border-width: thin;
+    display: block;
+    width: 80%;
+    height: 40%;
+    float:left;
+    padding: 20px;
+    border-radius: 10px;
+}
+.Contractors{
+    margin-left: 8%;
+}
+.para2{
+    margin-left: 8%;
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;}
+    input[type=date]{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;}
+    
+
+.formsss{
+margin-left: 30%;
+margin-right: 30%;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px ;
+    margin-top: 12px;
+    box-sizing:border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    resize: none;
+  }
+input[type=submit]{
+  
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+.split-layout {
+    display: flex;
+    flex-direction: column;
+  }
+  
+ 
+    .split-layout {
+      flex-direction: row;
+      align-items: stretch;
+    }
+ 
+  
+  .split-layout__item {
+    flex: 1;
+  }
+  
+    .split-layout__item1 {
+      margin-left: 5em;
+      width: 45%;
+    }
+  
+  .split-layout__divider {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+  }
+  
+
+    .split-layout__divider {
+      flex-direction: column;    }
+  
+  .split-layout__label {
+    padding: 1em;
+  }
+  
+  .split-layout__rule {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    flex: 1;
+    border-style:inset;
+    border-color: rgba(131, 116, 116, 0.3);
+    border-width: 1px 1px 1px 0;
+  }
+  
+  .wrapper{
+    background-color: #e0e0e0;
+    margin-top: 3em;
+  }
+
+  .formsssN{
+    margin-left: 5%;
+    margin-top: 1.5em;
+    margin-right: 10%;
+    }
+    .submitt{
+        margin-top: 1.5em;
+    }
+    .imgM{
+        width: 70%;
+        height: auto;}
+
